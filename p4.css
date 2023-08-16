@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    color: crimson;
+}
+h2{
+    margin: 10px;
+    margin-left: 15px;
+    padding-bottom: 10px;
+    color:brown
+}
+h3{
+    padding-left: 300px;
+    margin-top:-45px ;  
+    margin-right:2px;
+    margin-left: -75px;
+    color:#002B5B;
+}
+pre{
+    font-style: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:20px;
+
+}
+h4{
+    color: blueviolet;
+}
+list{
+    color:darkgoldenrod;
+    font-size:20px;
+}

@@ -1,0 +1,11 @@
+h2{
+    text-align: center;
+    color: crimson;
+    
+}
+pre{
+    text-align: left;
+    font-size: 20px;
+    text-justify: newspaper;
+    line-height: 45px;
+}
